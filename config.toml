@@ -1,0 +1,13 @@
+baseURL = "https://stvz.io/"
+title = "stvz.io"
+theme = "console"
+
+[params]
+  message = "Libraries, Tools, and Docs"
+
+# [menu]
+#   [[menu.main]]
+#     name = "Home"
+#     pre = "home"
+#     url = "/"
+#     weight = 1
