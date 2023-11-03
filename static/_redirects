@@ -1,3 +1,5 @@
 /strata/* go-get=1 /golang/strata.html
 /genie/* go-get=1 /golang/genie.html
+/coral/* go-get=1 /golang/coral.html
+/hashring/* go-get=1 /golang/hashring.html
 /* /404.html 404
